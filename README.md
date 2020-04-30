@@ -4,13 +4,10 @@ A Flutter app which shows a list of popular movies, using BLoC pattern
 
 ##MovieApp Android
 
-Home app
+List movie             |  Detail movie
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/AlfredoHdez1709/movie_app/master/scren/home_android.png)  |  ![](https://raw.githubusercontent.com/AlfredoHdez1709/movie_app/master/scren/detail_android.png)
 
-![Image of home](https://raw.githubusercontent.com/AlfredoHdez1709/movie_app/master/scren/home_android.png)
-
-Description movie
-
-![Image of detail](https://raw.githubusercontent.com/AlfredoHdez1709/movie_app/master/scren/detail_android.png)
 
 ## Getting Started Flutter
 
