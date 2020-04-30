@@ -1,8 +1,18 @@
 # movieapp
 
-A new Flutter application.
+A Flutter app which shows a list of popular movies, using BLoC pattern
 
-## Getting Started
+##MovieApp Android
+
+Home app
+
+![Image of home](https://raw.githubusercontent.com/AlfredoHdez1709/movie_app/master/scren/home_android.png)
+
+Description movie
+
+![Image of detail](https://raw.githubusercontent.com/AlfredoHdez1709/movie_app/master/scren/detail_android.png)
+
+## Getting Started Flutter
 
 This project is a starting point for a Flutter application.
 
