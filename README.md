@@ -2,7 +2,7 @@
 
 A Flutter app which shows a list of popular movies, using BLoC pattern
 
-##MovieApp Android
+## MovieApp Android
 
 List movie             |  Detail movie
 :-------------------------:|:-------------------------:
