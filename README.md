@@ -9,6 +9,14 @@ List movie             |  Detail movie
 ![](https://raw.githubusercontent.com/AlfredoHdez1709/movie_app/master/screens/home_android.png)  |  ![](https://raw.githubusercontent.com/AlfredoHdez1709/movie_app/master/screens/detail_android.png)
 
 
+## MovieApp iOS
+
+List movie             |  Detail movie
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/AlfredoHdez1709/movie_app/master/screens/home_ios.png)  |  ![](https://raw.githubusercontent.com/AlfredoHdez1709/movie_app/master/screens/detal_ios.png)
+
+
+
 ## Getting Started Flutter
 
 This project is a starting point for a Flutter application.
