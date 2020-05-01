@@ -6,7 +6,7 @@ A Flutter app which shows a list of popular movies, using BLoC pattern
 
 List movie             |  Detail movie
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/AlfredoHdez1709/movie_app/master/scren/home_android.png)  |  ![](https://raw.githubusercontent.com/AlfredoHdez1709/movie_app/master/scren/detail_android.png)
+![](https://raw.githubusercontent.com/AlfredoHdez1709/movie_app/master/screens/home_android.png)  |  ![](https://raw.githubusercontent.com/AlfredoHdez1709/movie_app/master/screens/detail_android.png)
 
 
 ## Getting Started Flutter
